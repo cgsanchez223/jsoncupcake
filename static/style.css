@@ -1,0 +1,22 @@
+.Cupcake-img {
+    max-width: 200px;
+    max-height: 200px;
+  }
+
+
+#form-flavor, #form-size,  #form-image {
+    margin-bottom: 5px;
+}
+
+.img {
+    max-width: 200px;
+    max-height: 200px;
+}
+
+#form-rating {
+    margin-bottom: 5px;
+}
+
+#cupcakebtn {
+    margin-top: 5px;
+}
